@@ -23,7 +23,7 @@ Este projeto demonstra um protótipo funcional simples de um sistema inteligente
 - Acionamento de LED baseado na luz (LDR).
 - Controle de carga baseado na temperatura (DHT22).
 - Leitura de dados em tempo real via serial.
-- Pronto para simular no [Wokwi](https://wokwi.com/).
+- Pronto para simular no [Wokwi][(https://wokwi.com/)](https://wokwi.com/projects/433415244644545537).
 
 ##  Demonstração em Vídeo
 
