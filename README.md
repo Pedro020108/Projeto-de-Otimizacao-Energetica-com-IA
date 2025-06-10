@@ -30,13 +30,13 @@ Este projeto demonstra um protótipo funcional simples de um sistema inteligente
 🔗 [Link do vídeo no YouTube](https://youtu.be/SEU-VIDEO-AQUI) (modo não listado)
 
 ##  Relatório Técnico
--No projeto, usei o simulador Wokwi para montar um protótipo com ESP32, dois sensores de luz (LDR) e um servo motor. A ideia foi fazer o ESP32 ler a intensidade da luz em dois pontos diferentes e ajustar o servo para “apontar” para onde tem mais luz, simulando um rastreador solar.
+- No projeto, usei o simulador Wokwi para montar um protótipo com ESP32, dois sensores de luz (LDR) e um servo motor. A ideia foi fazer o ESP32 ler a intensidade da luz em dois pontos diferentes e ajustar o servo para “apontar” para onde tem mais luz, simulando um rastreador solar.
 
--O código faz a leitura contínua dos LDRs e compara os valores para controlar o movimento do servo. Quando um sensor detecta mais luz, o servo se move para ajustar a posição, buscando sempre o ponto de maior luminosidade.
+- O código faz a leitura contínua dos LDRs e compara os valores para controlar o movimento do servo. Quando um sensor detecta mais luz, o servo se move para ajustar a posição, buscando sempre o ponto de maior luminosidade.
 
--Durante a simulação, consegui verificar pelo monitor serial que os sensores respondem conforme a luz e o servo movimenta conforme esperado. Isso mostra que o controle básico funciona e que o sistema pode ser a base para uma automação mais complexa de energia solar.
+- Durante a simulação, consegui verificar pelo monitor serial que os sensores respondem conforme a luz e o servo movimenta conforme esperado. Isso mostra que o controle básico funciona e que o sistema pode ser a base para uma automação mais complexa de energia solar.
 
--Apesar de ser uma simulação, o resultado foi positivo para validar o funcionamento do protótipo antes de partir para uma montagem física.
+- Apesar de ser uma simulação, o resultado foi positivo para validar o funcionamento do protótipo antes de partir para uma montagem física.
 
 
 
