@@ -27,7 +27,7 @@ Este projeto demonstra um protótipo funcional simples de um sistema inteligente
 
 ##  Demonstração em Vídeo
 
-🔗 [Link do vídeo no YouTube](https://youtu.be/SEU-VIDEO-AQUI) (modo não listado)
+🔗 [Link do vídeo no YouTube](https://youtube.com/shorts/0qvz5Rx2lQ8?feature=share)
 
 ##  Relatório Técnico
 - No projeto, usei o simulador Wokwi para montar um protótipo com ESP32, dois sensores de luz (LDR) e um servo motor. A ideia foi fazer o ESP32 ler a intensidade da luz em dois pontos diferentes e ajustar o servo para “apontar” para onde tem mais luz, simulando um rastreador solar.
