@@ -38,8 +38,12 @@ Este projeto demonstra um protótipo funcional simples de um sistema inteligente
 
 - Apesar de ser uma simulação, o resultado foi positivo para validar o funcionamento do protótipo antes de partir para uma montagem física.
 
+## Justificativas do Projeto
+- O projeto busca melhorar o aproveitamento da energia solar, tornando o consumo mais inteligente e eficiente. Com sensores de luz (LDR) e temperatura (DHT22), o sistema automatiza cargas e simula um rastreador solar, ajudando a captar mais energia conforme a posição do sol.
 
+- O ESP32 foi escolhido por ser acessível, potente e com Wi-Fi, ideal para soluções em IoT. Além de otimizar o uso da energia disponível, o projeto promove sustentabilidade, podendo ser expandido para controle remoto, monitoramento via internet e integração com assistentes virtuais.
 
+- A simulação no Wokwi confirmou que o sistema funciona, servindo como uma base segura para evoluir para uma versão física e mais completa.
 
 ##  Autores
 
