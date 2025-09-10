@@ -1,4 +1,4 @@
-#  Energia Solar e Automação: Um Sistema Inteligente para Casas
+#  Projeto de otimização energética com IA
 
 Este projeto demonstra um protótipo funcional simples de um sistema inteligente de energia, integrando sensores, automação de cargas e controle com ESP32, com foco em eficiência e sustentabilidade.
 
