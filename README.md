@@ -1,6 +1,6 @@
 #  Projeto de otimização energética com IA
 
-## Este projeto tem como meta mapear a rotina energética do usuário integrando três fontes principais:
+Este projeto tem como meta mapear a rotina energética do usuário integrando três fontes principais:
 
 -Dispositivos Alexa: coleta hábitos de uso, comandos de voz e preferências.
 
@@ -8,7 +8,7 @@
 
 -Inversor Híbrido GoodWe: fornece dados de geração solar, baterias e armazenamento.
 
-##Perfis Inteligentes e Modos de Operação
+## Perfis Inteligentes e Modos de Operação
 
 -Modo Sobrevivência: prioriza economia e o carregamento das baterias.
 
@@ -16,7 +16,7 @@
 
 -Modo Educacional: simula cenários de uso (ex.: “Qual o benefício de instalar mais placas solares?”) e prevê consumo, economia e retorno do investimento.
 
-##Monitoramento e Manutenção
+## Monitoramento e Manutenção
 
 -Detecção de anomalias no consumo ou geração.
 
@@ -24,7 +24,7 @@
 
 -Assistente de manutenção preventiva com recomendações automáticas.
 
-##Simulação no Wokwi
+## Simulação no Wokwi
 
 Além da lógica em Python, foi desenvolvida uma simulação no Wokwi (https://wokwi.com/projects/433415244644545537 para ilustrar o funcionamento de sensores e automação).
 Essa simulação ajuda a visualizar o fluxo de energia e o acionamento automático de cargas, funcionando como uma prova de conceito complementar ao projeto principal.
