@@ -26,7 +26,7 @@ Este projeto tem como meta mapear a rotina energética do usuário integrando tr
 
 ## Simulação no Wokwi
 
-Além da lógica em Python, foi desenvolvida uma simulação no Wokwi (https://wokwi.com/projects/433415244644545537 para ilustrar o funcionamento de sensores e automação).
+Além da lógica em Python, foi desenvolvida uma simulação no Wokwi (https://wokwi.com/projects/433415244644545537) para ilustrar o funcionamento de sensores e automação).
 Essa simulação ajuda a visualizar o fluxo de energia e o acionamento automático de cargas, funcionando como uma prova de conceito complementar ao projeto principal.
 
 ##  Demonstração em Vídeo
