@@ -10,7 +10,7 @@ Este projeto tem como meta mapear a rotina energética do usuário integrando tr
 
 ## Perfis Inteligentes e Modos de Operação
 
--Modo Sobrevivência: prioriza economia e o carregamento das baterias.
+-Modo Sobrevivência: prioriza economia e o uso das baterias.
 
 -Perfil Centrado no Usuário: a IA aprende preferências e se ajusta automaticamente.
 
